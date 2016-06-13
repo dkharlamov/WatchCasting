@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C1CE52B3-2989-4E58-A3DB-254A029DBCB0}") = "Watchcasting Unity LEGO ANDROID", "Assembly-CSharp.csproj", "{4935A539-9C64-A267-9AA5-8525032F843C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4935A539-9C64-A267-9AA5-8525032F843C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4935A539-9C64-A267-9AA5-8525032F843C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4935A539-9C64-A267-9AA5-8525032F843C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4935A539-9C64-A267-9AA5-8525032F843C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

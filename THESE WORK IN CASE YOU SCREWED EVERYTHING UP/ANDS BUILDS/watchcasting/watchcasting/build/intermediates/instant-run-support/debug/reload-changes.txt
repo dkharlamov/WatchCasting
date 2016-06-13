@@ -1,0 +1,2 @@
+CHANGED,/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/kpicture/watchcasting/UnityPlayerActivity$override.class
+CHANGED,/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

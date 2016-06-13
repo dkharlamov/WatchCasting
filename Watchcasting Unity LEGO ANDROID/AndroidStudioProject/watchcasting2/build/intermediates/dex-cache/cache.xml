@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kp/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_eb366f47ea23427df6529c1a0465b82d869f7bf7.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.1.0_9963492f96b3424a68393210759a2c6e3bdd83a1.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.1.0_1af47236ba146f39957a9b96fd9e6929e64e05a5.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/libs/unity-classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7518b1e008c683c9246781736af73f8e0661bb20">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/unity-classes_6101e9be820ecfcf11918a72f783556dadf23769.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.1.0_81db9d4cda00e6a962f3116fab92a93027a4005a.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.1.0_e4d28315bdca0f327ca48e1834cf45cc1fb25ea8.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.1.0_e97eec3beda71eb1d7c0c87427133bd3eaebfc98.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.1.0_ea0f2b8dd1ec07ff1d0acf3182d7ff343a5194ba.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_9ba31ea9e2438284da4bdcfd180ac5ecdae0e934.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_16e2655a8ff223e560dc43c3e20067645c504727.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.1.0_c2d26181d162a1e84b2c619ba3885d2f397a1c53.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.1.0_0882db725f87eddfe29ebacd50bb61cef586269d.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.1.0_29fad873d78b3fdcf8209a31c032c103e08dcb99.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.1.0_09a15394fab0a9bfca86791a9baee987ea321a1e.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.1.0_caa0a7c5b480329e566f607c9e793b84c6edbb74.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.1.0_b3cf179ebf8d30e2c153f334b42bdafdf8fcb469.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_350588903655c301331264ce91ee457935b32e7e.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_4a33fc41557fbd48d9926a20c1290d954ea8d532.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.1.0_a4f6eb5754fadd01440679c500679a29c11a74d6.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.1.0_5aebf252283d83aca31308900909bb762e00ca2d.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.1.0_36f3e466cef4d846d5f4213675ca8530054b31c6.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-22.2.0_eefa4635ca5689088482f49f32a0eb48d8b130cb.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7395ca5dd329affe99b01ee6d9f29bb86cfe6d5e">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5c24f613ac6813b29033fc742620413de4de3e42.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_18f413ded3abc815029efdb30e3e8e54201e25dc.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.1.0_31e27a7a0483696c94790227d375d2463d340004.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bb4279630156f991a4b1616f3f6a268e82334380">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/instant-run_9653a34f7774e9e3d06425567950478f0c4eee8b.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.1.0_78abe8a5b0fc3ec6e1c97528733634e7c79ea792.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.1.0_6ff11c38280cccc87788e849ff37faa0596ed661.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.1.0_56dc93bf32ad8b39a08064b3db7c1f28ef5ceb7b.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.1.0_a0cdab01ba483a4c1046414d9e3d7bcf2688ccbf.jar" />
+    </item>
+    <item
+        jar="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/kp/Google Drive/Research Projects/Watchcasting - 2016/Implementation/Watch Unity LEGO/AndroidStudioProject/watchcasting2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_865bd52aa8de4e54c2ff4abee468acb2b95ec127.jar" />
+    </item>
+
+</items>
