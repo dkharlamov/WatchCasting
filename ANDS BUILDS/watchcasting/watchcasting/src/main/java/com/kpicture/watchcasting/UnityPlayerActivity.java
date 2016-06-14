@@ -27,7 +27,6 @@ public class UnityPlayerActivity extends Activity
 		Intent intent = new Intent(this, ListenToWearableService.class);
 		startService(intent);
 
-
 		mUnityPlayer = new UnityPlayer(this);
 		setContentView(mUnityPlayer);
 		mUnityPlayer.requestFocus();

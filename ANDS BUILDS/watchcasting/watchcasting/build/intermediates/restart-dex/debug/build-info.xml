@@ -4,29 +4,29 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="1465856620821774000"
-    token="281034366823103118" >
+    timestamp="1465936188978294000"
+    token="251451146130623831" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="145" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="84" />
     <task
         name="verifier"
-        duration="0" />
+        duration="21" />
 
     <artifact
-        location="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/outputs/apk/watchcasting-debug.apk"
+        location="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/outputs/apk/watchcasting-debug.apk"
         type="MAIN" />
 
-    <build timestamp="1465856620821774000" >
+    <build timestamp="1465936188978294000" >
         <artifact
-            location="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/outputs/apk/watchcasting-debug.apk"
+            location="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/outputs/apk/watchcasting-debug.apk"
             type="MAIN" />
     </build>
 

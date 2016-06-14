@@ -2,396 +2,396 @@
 <items version="2" >
 
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.2_ef9da24480f771d3aaabd7e25cd1c75e3c304156/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_d926300571f1b971118127fef77034233ee5e0d1/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="829c6e46cb221c2102801221c648b77113743e81">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_f6d4c2b3bc107e8590ad57dd1659abdc9f3335f7/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_c91a6af0099e1be64c0d6390616974e102201cb2/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_17e0d8b39aad078f404951a280c52fdc38c92b7b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_f24014627b10b124b749759f9db93b0ffa2cb168/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8d6478e9ea2c94b687df91d618a4ae2460ecc8d8">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f85a876dc435ea1fa0b42dea04e689ed5d100371/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.2_77cc582dd807b7775f2f1388f64efb1b43b0e11b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/SystemUtils.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="81aff46389abb2d13327a9fc530417e26d6c2950">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/SystemUtils_ddd51aefd3ed856a952895e0d91c189963ce7d8f/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/libs/unity-classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="9b2035e1569b39aa1dd2671859763b96454dbaca">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_0d1d319d7e2b963ba14dd4d7fca99ea9e5e3a610/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_1d2ad13802a5584774f560ffe40d1732081c3b9d/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="6b271a021cacf19016d4b10e22d51e0363721bdc">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/ovrplugin-unspecified-jars_22c8bad134931d3d6cd109f456e3f7407ab42c83/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.2_c7deec9e93009bd4107ef6f5dec55f92661b5463/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="7e52b440a26498c56b4f263e215223b5451c955e">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.2_60b7ed563486187537863b0b440cf433a2d4f34d/classes.dex" />
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.2_5b63dc81bbe311bc3a47eecc3608c270e01359af/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.2_91c3ab34d4bbd3797cc2d2c4ae510e6ba7fcad2b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_4ab552d2954020dcfbe97fb175cdf92c67e124db/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.2_d3e871c6a01dee305e9ed1d920951ea43aee0523/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_2c1d7d1006fc147f8dd6a4f9566387515bc967f3/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_781fdbf328677e6f7da5b9d44a2ac44b3865f2f0/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_cb1389b6163975411e9d528d5a9124153fb3e12f/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="eed7b4169160880115b6b071f2d35ce350c2efe3">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ad68ef7f7b9dc49dabd6635a20f127c9bd4f624b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_cec308af50694bdd78cad04748b087d99f538d82/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.2_1b9238b89eeb22d7b33b753264ca8e3fa64da5b2/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.2_be429847031da0996fe861035757fad620098325/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/vrplatlib.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8be075058b81c6f83dcf7ef52ef5c9eaad5d9fae">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/vrplatlib_9125fe7bddc92bf744ef45be8b230e6b48b0ad4b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_2700e86f54ec8910fab71930b0fbb08c5f9d2e93/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.2_47f78541ddbba8da1f3a4a59fe59061c52474fec/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.2_07cce78a1859a1d2e12d3b9435cd2c1903632c13/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_d337aa3bcaf1d81ba7489ff8e45bbd59c660ba93/classes.dex" />
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.2_467878dca7526a3be6257a12181c8d7a5f69ad86/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.2_66cc04d9af80c79b125d1aa9bd6766389127a5d3/classes.dex" />
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.2_2e5087a4a6d91d940e9baf096d9621d98c8f32df/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.2_03ac2dd5491e7718df25bece99af03b532218020/classes.dex" />
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_321415d8178e181649ba6c5519b4a1bf9905ea0b/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_e63f7087a9fa2fe40c3cd859a39ee87c4963c551/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_c2850af862d5b1ca2ab62fd4df25a135cd20f37d/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.2_0313f4c1724539c9a9a919734fb66b953f257aa2/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.2_00b99a669a51574d6866e29205a93cda3c65c4e3/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.2_a39234b8a3febad4df1183c0be6999278e927ade/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_f6c3b067044fafa84d3d4f0eb2fdf699623241c1/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.2_fc2b1b8037e949fdf9157d876c77a3858efbfe91/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_6367423e46f4958d640123b907fc9f6f53f1a8e2/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_28604b61eef17bbde7bf831cbeea7cfc120a8d12/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/OculusUtilities.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="54a0cb62ed3bc818aec1aa081de73ffe3cb8fc27">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/OculusUtilities_8b70a8d1b463768fed57e694bb7ab60be2e1705e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.2_ab259f36df3a815b8e60fa9efdd0a0ed8ae03849/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_5c6a039806e51ac60ed593f19521cfbb1fc91140/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.2_af5812a0b89b4127fdadad4312313380ac302565/classes.dex" />
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.2_82c4cc3a2137d476ad8f53d3de8aa78a0819dbb7/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/vrplatlib.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_45677970cc89d39b23cb912ec4e14908f7435cb3/classes.dex" />
+        sha1="4020f5292158ebfc90ca413d0c37ed7db9b791fa">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/vrplatlib_e09dfb9b2b8bc1ac2ba30a7046735f117e5adc9b/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.2_157fe369784cf59a78f8aa376ccc054cc98b92c1/classes.dex" />
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.2_1f431fbbda043319a6b5fd54960613989b673684/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.2_4ac41c6b5d39b3e2c306d05f76df9e8e9c6b21e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.2_d715f3f915698afe5ae11cacc602787ffe0a07a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.2_db6cabe608f1423afdb448108e9da0e38654c3d3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.2_ef104b8470399db3b72efb292b3a094de4e0bbaa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.2_2afbea385c9969e9cde8d9223b64fc187b14a151/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a350b8507bdc5fef249703d6485cbfc55316d811">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_74ea35990320ee9cab2dcc134f5b8b504b9c4b69/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.2_020b9f311c4509433a1da1215994d1f3036d87f9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_d1f20c21cb06656d5c32091a3cbb48904eaeb72e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_da10db66f83e30427e0edfbba9b497d6225ed318/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.2_ad808209dfd53ea2b4c6a78c78aff2c7074be008/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.2_fbff8f6c5ab27beefc82938f2ec561461dea5f95/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.2_3f1f4ea2c945c7b40ea800e297c8c0bbce34b0c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.2_1d28731cd851cac440df600722614d48e9d941e9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.2_085c36c2deb365feb7677bbc6cded7861b70cd87/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.2_e8626fb2b56ee8415c652c6428ff5bdbfe4f0cf4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.2_349a5d08d2a18cb3eb013194b1ec1f7344c85aa7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.2_07e75fac08ba109a0d4ebce95c22bd268498625d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_b25a3d6c46d2db0d997b990ed033886146b005eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_6efe4e54b5ba1e6085d7e60bfb3168cbb26875af/classes.dex" />
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.2_8ba7defa653240b32f1cc2b3b44ac1ffdeaa6e91/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_832af0754f55ab6a39b7c98545e14226b40c9881/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.2_169d9cf38feb54e8c05870730096f5b3b8e6aff1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db70e8d39cf876c9541c975ad44cbd2f63205e69">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/ovrplugin-unspecified-jars_1adc305d44109c48eccf6ad44a404fc1904a4681/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_17135dc0201e90ea7e67b90aac0070e101451418/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_f0ed1ad29cb5c7334c4af34704a5d8a544a5f9c5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.2_e7cd7f85ae49261706b68de9e3d39763dba76190/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/SystemUtils.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="198d97387a6995745efb1c8e3120d092d2c1f54a">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/SystemUtils_bd2e5c15ce002a2a0f75cd76c6ed182e3acdc181/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_baf32200328c9f2547ee95c66e03141492ea73c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.2_7f85a7687da72f5d63a00162f1ee3899bb8c228b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_1af1667a0faf5c27842bfbd90f2a8d6d803b7d6f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.2_9e45e82f0fc672a9de8556df6bb29a3df1a22dcf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_19e9f3d36877345c391e3668a0389600bc015465/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/libs/unity-classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9b2035e1569b39aa1dd2671859763b96454dbaca">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_4a096c17c4481af66c62c75ce76c21859cbb7802/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.2_4ec9353fe3905396b1e3cfda104df72c89828285/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_ed79431024de15ea804131b466bdf74bf1819adc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.2_dbb905880ac9a7bc72b1152000b1849617144785/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.2_5d9cb0e60bb3bc7b254b0c6ad17dbe0c4852ea81/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.2_93eeb159c721a9a8cd98a348f76af912e20849db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.2_b53e9b3327cfc1bdb0465b2b91481245d7f40b52/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.2_4427df840f4e167ba31f9e3d0f83970db98c5639/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.2_627ddff4e241dd33e21551e11c3da7c2a3716276/classes.dex" />
     </item>
     <item
         jar="/Users/student/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_442f1acf5224ca5ee561141655493c8def0bfaf8/classes.dex" />
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_442f1acf5224ca5ee561141655493c8def0bfaf8/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.2_27e3a9ccb73b48e4eae4caf55350a47e3feb9982/classes.dex" />
+        sha1="11d1b19159f52293c0d2448a6dadedd04cdbe5f6">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a8756c395364ba0993d5d0578d7b18080e3a45e5/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_39cb9c31a49513238d4a8ae2bee3df5f85399ee8/classes.dex" />
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.2_0d768593bafe8949c337d6aba5c466903b21cda9/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.2_942c5c4ed871be89d19e8405b2a8c1ead917a372/classes.dex" />
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.2_0e10cd02290755322af27ffc6527a17bd42e8209/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.2_9f61f6e0545c4095b06430f9f17425ed8376309e/classes.dex" />
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.2_9bece3fbf99a7eb6a2d0c05921becaebf6d3a933/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_9fd10ca4866178de622d3d17915a1ab86e3cbf3c/classes.dex" />
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_d471acea5cda0600e9f0635008f9febb24623b63/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/OculusUtilities.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.2_afaf783f84f91bd85ed885cc54f89fb14c2a23aa/classes.dex" />
+        sha1="8dedfc5444d9fd3b5203c275b71a09ff081f4263">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/OculusUtilities_6ae4d38d60f804f4f8675a5d8fd9f1483c42389f/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.2_36d66fde5d30c0a728b3bda84908e94f901c1c6d/classes.dex" />
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_121b297c7bc3730bee7084cd04f09fd55081412e/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.2/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
-        <dex dex="/Users/student/Desktop/WKAST/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.2_ab26fc5dbc394521aab77eb163d173ea9e9941de/classes.dex" />
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.2_b292745f5e1f7ca8ce441f7055bcb1adc167b7cf/classes.dex" />
     </item>
 
 </items>
