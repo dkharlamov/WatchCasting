@@ -8,15 +8,19 @@ public class Rotate : MonoBehaviour {
 
 	private float user_roll = 0.0f;
 
+	private bool swap_inputs; 
+
+	private RaycastHit selected_object;
+
+
 	// Use this for initialization
 	void Start () {
-
+		swap_inputs = false;
 
 	}
 	
 	// Update is called once per frame
 	void Update () {
-
 		
 		Quaternion rotation = WatchRotation.rotation;  //Quaternion.Euler (-WatchRotation.rotation.eulerAngles.y,
 			                     // WatchRotation.rotation.eulerAngles.x, -WatchRotation.rotation.eulerAngles.z);
@@ -24,6 +28,26 @@ public class Rotate : MonoBehaviour {
 		Quaternion cam_rotation = GameObject.Find("Camera").transform.rotation;
 
 		this.transform.rotation = rotation;
+
+
+		RaycastHit hit;
+		Ray caster = new Ray(this.transform.position, this.transform.forward);
+
+		if(Physics.Raycast(caster, out hit)){
+			if((hit.collider.tag == "Collidable") && (WatchRotation.mouseState == 1))
+			{
+				selected_object = hit;
+			}
+		}
+
+		if(selected_object != null)
+		{
+			selected_object.transform.Translate(this.transform.forward);
+			if(WatchRotation.mouseState == 1){
+				selected_object = null;	
+			}
+		}
+
 
 		bool update_user_roll = false;
 
@@ -35,6 +59,7 @@ public class Rotate : MonoBehaviour {
 
 		if(update_user_roll)
 		{
+			//yaw_correction = Quaternion.FromToRotation( new Vector3(this.transform.forward.x, 0, this.transform.forward.z), new Vector3(0, 0, 1));
 			yaw_correction = Quaternion.FromToRotation( new Vector3(this.transform.forward.x, 0, this.transform.forward.z), new Vector3(0, 0, 1));
 
 			Vector3 user_zero_roll = computeZeroRollVector(this.transform.forward);
@@ -52,13 +77,31 @@ public class Rotate : MonoBehaviour {
 
 		//this.transform.rotation = new Quaternion(this.transform.localRotation.x, -this.transform.localRotation.y, this.transform.localRotation.z, this.transform.localRotation.w);
 
+		if(Input.GetButtonDown("Fire2") && !swap_inputs)
+		{
+			swap_inputs = true;
+		}
+		else if(Input.GetButtonDown("Fire2"))
+		{
+			swap_inputs = false;
+		}
+	
+		if(swap_inputs)
+		{
+			transform.rotation = new Quaternion(transform.localRotation.x,
+				-transform.localRotation.y,
+				transform.localRotation.z,
+				-transform.localRotation.w);
+		}
+
+
 		transform.rotation = yaw_correction * antiRoll * Quaternion.LookRotation(this.transform.forward);
 
 		TextMesh debug = GameObject.Find("Debug").GetComponent<TextMesh>(); 
 
 
 
-		debug.text = string.Format("Watch:\n{0}\n{1}\n{2}", transform.rotation.x, transform.rotation.y, transform.rotation.z);
+		debug.text = string.Format("Watch:\n{0}\n{1}\n{2}\n{3}", transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z, swap_inputs ? "SWAP" : "NORM");
 
 	
 	}
