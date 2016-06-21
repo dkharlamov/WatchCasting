@@ -35,7 +35,7 @@ public class WatchRotation : MonoBehaviour {
 
 			// make sure that the data is actually a rotation data (has 4 compotents of Quaternion)
 			if (values.Length == 5) {
-				rotation = new Quaternion (Single.Parse (values [0]), Single.Parse (values [1]), Single.Parse (values [2]), Single.Parse (values [3]));
+				rotation = new Quaternion (Single.Parse (values [1]), Single.Parse (values [2]), Single.Parse (values [3]), Single.Parse (values [0]));
 				mouseState = Int32.Parse (values [4]);
 				// save this rotation as an "offset" if it was the first time it was measured
 				if (firstMeasurement) {

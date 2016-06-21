@@ -2,74 +2,74 @@
 <items version="2" >
 
     <item
-        jar="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_5d723388b9042a7a35726466bcd5557b62d8b95e/classes.dex" />
+        sha1="393b09a8840a39224ba7abbe726ea1d46ac19702">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_69e01aad65180e8dcb6c73f658a1c02a69aab8c9/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_a11facaff070f34298a2a255a24f177aaaf34b50/classes.dex" />
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.1.0_788e7e94e41e30b6db7375dfec66048123eed821/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-1.3.0_cbb1d85d10976057664bbc8ceabc8c3d7b51ce7e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="23b450a801a1bf9a7d91e5a9d55ec27413e5b1c8">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_19f37ec06f96675f86922f86c860c7b4d243f3d2/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_6c2ecdb850200025b4c27f2b6b4c2a22641ac8ef/classes.dex" />
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_42ce4953a8256c87732b5210ed175ca0664cc1cc/classes.dex" />
     </item>
     <item
         jar="/Users/student/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_3e491cd114cbfcd6430d3ccf941e962f55d5d742/classes.dex" />
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_3e491cd114cbfcd6430d3ccf941e962f55d5d742/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_3d5339f38ab349ace13cfb60713f85d077938ff3/classes.dex" />
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-1.3.0_0b284d754d7edbbb034f371fcab94c355f3bdc73/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="d5ad1957be99fd5fccc810c0ef5c77ee0c448569">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_174aa1b294a8dc4a0593906fab414e1cb57307b8/classes.dex" />
+        sha1="67540e25b5314c257941ecbc6b94b824326308e1">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81fdbfcc4024ae3601f9a3ac1a9ef860fffdecc0/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.1.0_7399d6cc2d171a8d9effe6357ba3f94dca14f92d/classes.dex" />
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_3ac8dd65c8e7f30516fa8a4bd6d0b525e99fd23a/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/student/Desktop/WKAST/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_c357a0bdf07b9d5215da7534f53c4b4c7cace223/classes.dex" />
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_b9d6b8dd475f334ef74f4208224f451847477fc7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_69e9e5ea197fbf253787972103f8ebfb1ef44216/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_e1ef84e414157ee05a58cc76c71bcfc1cba41790/classes.dex" />
     </item>
 
 </items>

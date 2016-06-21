@@ -10,7 +10,7 @@ public class Rotate : MonoBehaviour {
 
 	private bool swap_inputs; 
 
-	private RaycastHit selected_object;
+	private RaycastHit selected_object = new RaycastHit();
 
 
 	// Use this for initialization
@@ -18,10 +18,14 @@ public class Rotate : MonoBehaviour {
 		swap_inputs = false;
 
 	}
+		
+
+
+
 	
 	// Update is called once per frame
 	void Update () {
-		
+
 		Quaternion rotation = WatchRotation.rotation;  //Quaternion.Euler (-WatchRotation.rotation.eulerAngles.y,
 			                     // WatchRotation.rotation.eulerAngles.x, -WatchRotation.rotation.eulerAngles.z);
 
@@ -40,14 +44,13 @@ public class Rotate : MonoBehaviour {
 			}
 		}
 
-		if(selected_object != null)
+		if(!selected_object.Equals(new RaycastHit()))
 		{
 			selected_object.transform.Translate(this.transform.forward);
 			if(WatchRotation.mouseState == 1){
-				selected_object = null;	
+				selected_object = new RaycastHit();
 			}
 		}
-
 
 		bool update_user_roll = false;
 
@@ -99,11 +102,12 @@ public class Rotate : MonoBehaviour {
 
 		TextMesh debug = GameObject.Find("Debug").GetComponent<TextMesh>(); 
 
+		//TextMesh debug2 = GameObject.Find("Debug2").GetComponent<TextMesh>();
 
+		debug.text = string.Format("Watch:\n{0}\n{1}\n{2}\n{3}\n{4}", transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z, swap_inputs ? "SWAP" : "NORM", WatchRotation.mouseState);
 
-		debug.text = string.Format("Watch:\n{0}\n{1}\n{2}\n{3}", transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z, swap_inputs ? "SWAP" : "NORM");
+		//debug2.text = string.Format("Phone:\n{0}\n{1}\n{2}", cam_rotation.eulerAngles.x, cam_rotation.eulerAngles.y, cam_rotation.eulerAngles.z);
 
-	
 	}
 
 	Vector3 computeZeroRollVector(Vector3 forward)
