@@ -10,7 +10,6 @@ public class Rotate : MonoBehaviour {
 
 	private bool swap_inputs; 
 
-	private RaycastHit selected_object = new RaycastHit();
 
 
 	// Use this for initialization
@@ -34,23 +33,6 @@ public class Rotate : MonoBehaviour {
 		this.transform.rotation = rotation;
 
 
-		RaycastHit hit;
-		Ray caster = new Ray(this.transform.position, this.transform.forward);
-
-		if(Physics.Raycast(caster, out hit)){
-			if((hit.collider.tag == "Collidable") && (WatchRotation.mouseState == 1))
-			{
-				selected_object = hit;
-			}
-		}
-
-		if(!selected_object.Equals(new RaycastHit()))
-		{
-			selected_object.transform.Translate(this.transform.forward);
-			if(WatchRotation.mouseState == 1){
-				selected_object = new RaycastHit();
-			}
-		}
 
 		bool update_user_roll = false;
 
@@ -102,11 +84,9 @@ public class Rotate : MonoBehaviour {
 
 		TextMesh debug = GameObject.Find("Debug").GetComponent<TextMesh>(); 
 
-		//TextMesh debug2 = GameObject.Find("Debug2").GetComponent<TextMesh>();
+		debug.text = string.Format("Watch:\n{0}\n{1}\n{2}\n{3}", transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z, swap_inputs ? "SWAP" : "NORM");
 
-		debug.text = string.Format("Watch:\n{0}\n{1}\n{2}\n{3}\n{4}", transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z, swap_inputs ? "SWAP" : "NORM", WatchRotation.mouseState);
 
-		//debug2.text = string.Format("Phone:\n{0}\n{1}\n{2}", cam_rotation.eulerAngles.x, cam_rotation.eulerAngles.y, cam_rotation.eulerAngles.z);
 
 	}
 

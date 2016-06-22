@@ -332,12 +332,12 @@
         "source": "/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/res/merged/debug/drawable-xhdpi-v4/powered_by_google_light.png",
-        "source": "/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/drawable-xhdpi-v4/powered_by_google_light.png"
-    },
-    {
         "merged": "/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/res/merged/debug/drawable-xhdpi-v4/powered_by_google_light.png",
+        "source": "/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.2/res/drawable-xhdpi-v4/powered_by_google_light.png"
     },
     {
         "merged": "/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",

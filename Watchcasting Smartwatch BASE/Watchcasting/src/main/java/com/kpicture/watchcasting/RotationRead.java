@@ -34,12 +34,12 @@ public class RotationRead extends Service implements SensorEventListener, Google
     public void onCreate() {
         sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
         rotation = sensorManager.getDefaultSensor(Sensor.TYPE_ROTATION_VECTOR);
-        //acceleration = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
+        acceleration = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
 
         // every 20ms
         sensorManager.registerListener(this, rotation, 50000); // every 20ms
         // every 20ms
-        //sensorManager.registerListener(this, acceleration, 20000); // every 20ms
+        sensorManager.registerListener(this, acceleration, 20000); // every 20ms
 
         // connect to Companion app
         mGoogleApiClient = new GoogleApiClient.Builder(this)
@@ -67,6 +67,7 @@ public class RotationRead extends Service implements SensorEventListener, Google
     @Override
     public void onDestroy() {
         sensorManager.unregisterListener(this,rotation);
+        sensorManager.unregisterListener(this, acceleration);
     }
 
     @Override
@@ -113,23 +114,17 @@ public class RotationRead extends Service implements SensorEventListener, Google
                    }
                    break;
                case Sensor.TYPE_ACCELEROMETER:
+
                    if (System.currentTimeMillis() - timeElapsed > TIME_TH && (event.values[0] > TH || event.values[0] < -TH) ) {
                        timeElapsed = System.currentTimeMillis();
-                       if (mouseState == 0) {
-                           mouseState = 1; // push
-                           Log.e("MOUSESTATE", String.valueOf(mouseState) + "," + event.values[0]);
-                           break;
+                       if (mouseState == 0)
+                       {
+                           mouseState = 1;
                        }
-                       if (mouseState == 1) {
-                           mouseState = 2; // pull
-                           Log.e("MOUSESTATE", String.valueOf(mouseState) + "," + event.values[0]);
-                           break;
+                       else
+                       {
+                           mouseState = 0;
                        }
-                       if (mouseState == 2) {
-                           mouseState = 0; // release
-                           Log.e("MOUSESTATE", String.valueOf(mouseState) + "," + event.values[0]);
-                       }
-
                    }
                default:
                 break;

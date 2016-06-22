@@ -40,7 +40,7 @@
         jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/vrplatlib.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="5efe3a132b97a063d7f2f44e10307680b9c595f2">
+        sha1="857f0c96c75c3ea86539c9179d644a7225b29df5">
         <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/vrplatlib_e09dfb9b2b8bc1ac2ba30a7046735f117e5adc9b/classes.dex" />
     </item>
     <item
@@ -89,7 +89,7 @@
         jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="5935ac9685c79dc6ab3b0bbb3aae833d3b487fab">
+        sha1="cff860fa41243869d8b19f2c95e8168f79f337e8">
         <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_74ea35990320ee9cab2dcc134f5b8b504b9c4b69/classes.dex" />
     </item>
     <item
@@ -201,7 +201,7 @@
         jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="58e65f395156886606fa35ea2c89638cc2312b8b">
+        sha1="210b17cdb90216b4f3cb88fb97ec97b3a65be834">
         <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/ovrplugin-unspecified-jars_1adc305d44109c48eccf6ad44a404fc1904a4681/classes.dex" />
     </item>
     <item
@@ -229,7 +229,7 @@
         jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/SystemUtils.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="c3923bd10b52c858c8f5c1f60ef185ca7e08d191">
+        sha1="1a4eab1b20a639d72fc2012bedcfd76560c68410">
         <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/SystemUtils_bd2e5c15ce002a2a0f75cd76c6ed182e3acdc181/classes.dex" />
     </item>
     <item
@@ -341,7 +341,7 @@
         jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="28653d32ef0c7bd3af10f1567a9efc368967bc17">
+        sha1="1bf4771840462ac1e1766cdd7ec36a5e8e2bb4a0">
         <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a8756c395364ba0993d5d0578d7b18080e3a45e5/classes.dex" />
     </item>
     <item
@@ -376,7 +376,7 @@
         jar="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/exploded-aar/watchcasting/ovrplugin/unspecified/jars/libs/OculusUtilities.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="822b67312ba5415eeb75d4c7729e513924143480">
+        sha1="ca999289a54eb106cd6d3e9ee80f5099889f685a">
         <dex dex="/Users/student/Desktop/WatchCasting/ANDS BUILDS/watchcasting/watchcasting/build/intermediates/transforms/dex/debug/folders/1000/8/OculusUtilities_6ae4d38d60f804f4f8675a5d8fd9f1483c42389f/classes.dex" />
     </item>
     <item

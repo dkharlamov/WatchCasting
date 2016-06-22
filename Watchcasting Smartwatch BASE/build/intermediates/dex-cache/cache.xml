@@ -16,6 +16,13 @@
         <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.1.0_788e7e94e41e30b6db7375dfec66048123eed821/classes.dex" />
     </item>
     <item
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_b9d6b8dd475f334ef74f4208224f451847477fc7/classes.dex" />
+    </item>
+    <item
         jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
@@ -44,25 +51,18 @@
         <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81fdbfcc4024ae3601f9a3ac1a9ef860fffdecc0/classes.dex" />
     </item>
     <item
-        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_3ac8dd65c8e7f30516fa8a4bd6d0b525e99fd23a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_b9d6b8dd475f334ef74f4208224f451847477fc7/classes.dex" />
-    </item>
-    <item
         jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
         <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_69e9e5ea197fbf253787972103f8ebfb1ef44216/classes.dex" />
+    </item>
+    <item
+        jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_3ac8dd65c8e7f30516fa8a4bd6d0b525e99fd23a/classes.dex" />
     </item>
     <item
         jar="/Users/student/Desktop/WatchCasting/Watchcasting Smartwatch BASE/Watchcasting/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
