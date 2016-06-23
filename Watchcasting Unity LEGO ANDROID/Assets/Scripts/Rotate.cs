@@ -106,7 +106,9 @@ public class Rotate : MonoBehaviour {
 		Vector3 crossP = Vector3.Cross(up, zeroRoll);
 		float directionCosine = Vector3.Dot(forward, crossP);
 
-		return Math.Sign(directionCosine) * Mathf.Rad2Deg * Mathf.Acos(cosine);
+		float sign = directionCosine < 0.0f ? 1.0f : -1.0f;
+
+		return sign * Mathf.Rad2Deg * Mathf.Acos(cosine);
 
 	}
 
