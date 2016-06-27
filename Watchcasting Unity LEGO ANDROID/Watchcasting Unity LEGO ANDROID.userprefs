@@ -1,9 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Selector.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RotateBASIC.cs">
     <Files>
-      <File FileName="Assets/Scripts/WatchRotation.cs" Line="29" Column="3" />
+      <File FileName="Assets/Scripts/WatchRotation.cs" Line="19" Column="4" />
       <File FileName="Assets/Scripts/Selector.cs" Line="38" Column="40" />
+      <File FileName="Assets/Scripts/Rotate.cs" Line="71" Column="24" />
+      <File FileName="Assets/Scripts/RotateBASIC.cs" Line="19" Column="83" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -18,8 +18,14 @@ public class RotateBASIC : MonoBehaviour {
 		Quaternion rotation = WatchRotation.rotation;  //Quaternion.Euler (-WatchRotation.rotation.eulerAngles.y,
 		// WatchRotation.rotation.eulerAngles.x, -WatchRotation.rotation.eulerAngles.z);
 
+		Quaternion one_eighty = Quaternion.AngleAxis(180, Vector3.up);
+		Quaternion upside_down = Quaternion.AngleAxis(180, Vector3.right);
 
-		transform.rotation = rotation;
+		transform.localRotation = rotation * one_eighty * upside_down;
+
+		TextMesh debug = GameObject.Find("Debug").GetComponent<TextMesh>(); 
+
+		debug.text = string.Format("Watch:\n{0}\n{1}\n{2}", transform.localRotation.eulerAngles.x, transform.localRotation.eulerAngles.y, transform.localRotation.eulerAngles.z);
 
 
 	}
