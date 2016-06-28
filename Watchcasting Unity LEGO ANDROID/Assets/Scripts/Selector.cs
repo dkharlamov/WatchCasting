@@ -4,38 +4,19 @@ using System.Collections;
 public class Selector : MonoBehaviour {
 
 	GameObject selected_object;
+	//float y_position = 1.0f;
 
 	// Use this for initialization
 	void Start () {
 		selected_object = new GameObject();
 	}
 
-//	void OnCollisionEnter (Collision col)
-//	{
-//		TextMesh debug2 = GameObject.Find("Debug2").GetComponent<TextMesh>();
-//		debug2.text = col.gameObject.name;
-//	}
-	
-	// Update is called once per frame
-
-
-
-	void Update () {
-
+	void OnCollisionEnter (Collision col)
+	{
 		int state = WatchRotation.mouseState;
-
-		TextMesh debug2 = GameObject.Find("Debug2").GetComponent<TextMesh>();
-		Ray casted = new Ray(this.transform.position, this.transform.up);
-		Debug.DrawRay(this.transform.position, this.transform.up);
-		RaycastHit hit_info = new RaycastHit();
-		if(Physics.Raycast(casted, out hit_info))
+		if(col.collider.tag == "Collidable" && state == 1)
 		{
-			if(hit_info.collider.tag == "Collidable" && state == 1){
-				selected_object = hit_info.collider.gameObject;
-			}
-			debug2.text = hit_info.collider.name + "\n" + state;
-		}else{
-			debug2.text = "----" + "\n" + state;
+			selected_object = col.collider.gameObject;
 		}
 
 		if(state == 0)
@@ -44,7 +25,22 @@ public class Selector : MonoBehaviour {
 		}
 		else
 		{
-			selected_object.transform.localRotation = this.transform.rotation;
+			selected_object.transform.position = this.transform.position;
 		}
+
+		
+	}
+
+
+	
+	// Update is called once per frame
+	void Update () {
+//		float z = GameObject.Find ("Watch").transform.localRotation.eulerAngles.z;
+//		if (z > 180f)
+//		{
+//			z = z-360f;
+//		}
+//		y_position = z / 270f;
+//		transform.localPosition = new Vector3 (transform.localPosition.x, -0.5f+y_position, transform.localPosition.z);
 	}
 }

@@ -4,32 +4,68 @@ using System;
 
 public class RotateBASIC : MonoBehaviour {
 
+	Quaternion correction;
+	//private bool swap_inputs; 
 
 	// Use this for initialization
 	void Start () {
-
-
+		correction = Quaternion.identity;
+	//	swap_inputs = false;
 	}
 
 	// Update is called once per frame
 	void Update () {
 
 
-		Quaternion rotation = WatchRotation.rotation;  //Quaternion.Euler (-WatchRotation.rotation.eulerAngles.y,
-		// WatchRotation.rotation.eulerAngles.x, -WatchRotation.rotation.eulerAngles.z);
+		Quaternion rotation = WatchRotation.rotation;
 
-		Quaternion one_eighty = Quaternion.AngleAxis(180, Vector3.up);
-		Quaternion upside_down = Quaternion.AngleAxis(180, Vector3.right);
+		bool update_correction = false;
 
-		transform.localRotation = rotation * one_eighty * upside_down;
+		if(Input.GetButtonDown("Fire1"))
+		{
+			update_correction = true;
+		}
 
-		TextMesh debug = GameObject.Find("Debug").GetComponent<TextMesh>(); 
 
-		debug.text = string.Format("Watch:\n{0}\n{1}\n{2}", transform.localRotation.eulerAngles.x, transform.localRotation.eulerAngles.y, transform.localRotation.eulerAngles.z);
+		if(update_correction)
+		{
+			correction = WatchRotation.rotation;
+		}
+			
+
+		transform.localRotation = rotation * Quaternion.Inverse(correction);
+
+		//TextMesh debug = GameObject.Find("Debug").GetComponent<TextMesh>(); 
+
+	//	if(Input.GetButtonDown("Fire2") && !swap_inputs)
+	//	{
+	//		swap_inputs = true;
+	//	}
+	//	else if(Input.GetButtonDown("Fire2"))
+	//	{
+	//		swap_inputs = false;
+	//	}
+
+	//	if(swap_inputs)
+	//	{
+			transform.localRotation = new Quaternion(transform.localRotation.x,
+				-transform.localRotation.y,
+				-transform.localRotation.z,
+				-transform.localRotation.w);
+	//	}
+
+		//debug.text = string.Format("Watch:\n{0}\n{1}\n{2}\n{3}", transform.localRotation.eulerAngles.x, transform.localRotation.eulerAngles.y, transform.localRotation.eulerAngles.z, swap_inputs ? "SWAP" : "NORM");
 
 
 	}
 		
+	public void draw_axis_giz()
+	{
+		Debug.DrawRay(this.transform.position, this.transform.up, Color.green);
+		Debug.DrawRay(this.transform.position, this.transform.right, Color.red);
+		Debug.DrawRay(this.transform.position, this.transform.forward, Color.blue);
+
+	}
 
 
 }
